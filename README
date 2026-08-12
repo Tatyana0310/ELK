@@ -1,8 +1,8 @@
-Домашнее задание к занятию "ELK" - Фабричникова Татьяна Алекасндровна
+# Домашнее задание к занятию "ELK" - Фабричникова Татьяна Алекасндровна
 
 
 
-Задание 1. Elasticsearch
+## Задание 1. Elasticsearch
 
 Установите и запустите Elasticsearch, после чего поменяйте параметр cluster_name на случайный.
 
@@ -18,7 +18,8 @@
 
 
 
-Задание 2. Kibana
+## Задание 2. Kibana
+
 Установите и запустите Kibana.
 
 ![Запущенная служба ](Screen/4.png)
@@ -33,7 +34,8 @@
 
 
 
-Задание 3. Logstash
+## Задание 3. Logstash
+
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.
 
 ![Запущенные службы logstash и nginx](Screen/6.png)
@@ -46,7 +48,8 @@
 
 
 
-Задание 4. Filebeat.
+## Задание 4. Filebeat.
+
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.
 
 ![Запущенная служба filebeat](Screen/6.png)
